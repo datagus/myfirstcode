@@ -1,0 +1,22 @@
+Gapminder data
+
+Description:
+Excerpt of the Gapminder data on life expectancy, GDP per capita, and population by country.
+
+Format
+The main data frame gapminder has 1704 rows and 6 variables:
+
+country
+
+continent
+
+year (ranges from 1952 to 2007 in increments of 5 years)
+
+lifeExp (life expectancy at birth, in years)
+
+pop (population)
+
+gdpPercap (GDP per capita (US$, inflation-adjusted))
+
+Source
+https://www.gapminder.org/data/
